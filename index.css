@@ -1,0 +1,43 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(33, 199, 199);
+    height: 150px;
+}
+
+.container {
+    background-color: tomato;
+    padding-left: 200px;
+    padding-right: 150px;
+}
+
+.sidebar {
+    margin-left: 2.8%;
+    background-color: rgb(180, 21, 53);
+    width: 200px;
+    height: 300px;
+}
+
+.float-left {
+    float: left;
+}
+
+.container1 {
+    float: right;
+    width: 80%;
+    background-color: rgb(1, 1, 122);
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+}
